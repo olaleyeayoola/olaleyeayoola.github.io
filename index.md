@@ -10,7 +10,8 @@ I am a final year undergraduate student of Computer Engineering at [Covenant Uni
 **Recent Posts**
 * [Removing Noise from Images using a CNN model in Pytorch](https://olaleyeayoola.medium.com/removing-noise-from-images-using-a-cnn-model-in-pytorch-part-1-45e119c03f52)
 
-[Here's my BLOG 🚀](http://ai.techdev.fun/)
+[See Blog](http://ai.techdev.fun/)
 
 **Recommended Tutorials and Books**
-* 
+* [MIT 18.06SC Linear Algebra, Fall 2011 by Gilbert Strang](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+* [Deep Learning for Computer Vision by Justin Johnson](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
