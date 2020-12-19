@@ -9,9 +9,11 @@ I am a final year undergraduate student of Computer Engineering at [Covenant Uni
 
 **Recent Posts**
 * [Removing Noise from Images using a CNN model in Pytorch](https://olaleyeayoola.medium.com/removing-noise-from-images-using-a-cnn-model-in-pytorch-part-1-45e119c03f52)
+* [Pytorch Implementation Of Generative Adversarial Networks](http://ai.techdev.fun/index.php/2020/05/12/pytorch-implementation-of-generative-adversarial-networks/)
 
-[See Blog](http://ai.techdev.fun/)
 
 **Recommended Tutorials and Books**
 * [MIT 18.06SC Linear Algebra, Fall 2011 by Gilbert Strang](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
-* [Deep Learning for Computer Vision by Justin Johnson](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+* [An Introduction to 3D Computer Vision Techniques and Algorithms](https://www.wiley.com/en-us/An+Introduction+to+3D+Computer+Vision+Techniques+and+Algorithms-p-9781119964476)
+* [Programming Pytorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/)
+* [Pytorch Deep Learning Hands-On](https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-pytorch)
