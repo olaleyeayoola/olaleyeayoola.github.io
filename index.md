@@ -1,4 +1,4 @@
-<img width="500" alt="Screenshot 2020-11-21 at 11 06 31 PM" class="center" src="https://user-images.githubusercontent.com/52134849/99889019-b07eb880-2c51-11eb-88ef-18d1f4c76e65.png">
+<img width="500" alt="Screenshot 2020-11-21 at 11 06 31 PM" class="center" src="https://user-images.githubusercontent.com/52134849/102693598-0c6e3a00-421c-11eb-9e2d-396cb308baf8.jpeg">
 
 
 I am a final year undergraduate student of Computer Engineering at [Covenant University](https://www.covenantuniversity.edu.ng/), and I build deep learning models that aids computer vision. My focus is to use science as an innovative tool to provide solutions to problems.
