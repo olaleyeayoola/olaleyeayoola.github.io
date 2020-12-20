@@ -1,7 +1,7 @@
 <img width="500" height="600" alt="Screenshot 2020-11-21 at 11 06 31 PM" class="center" src="https://user-images.githubusercontent.com/52134849/102693761-38d68600-421d-11eb-8682-e245919f1eb9.jpg">
 
 
-I am a final year undergraduate student of Computer Engineering at [Covenant University](https://www.covenantuniversity.edu.ng/), and I build deep learning models that aids computer vision. My focus is to use science as an innovative tool to provide solutions to problems.
+I am a final year undergraduate student of Computer Engineering at [Covenant University](https://www.covenantuniversity.edu.ng/). I am passionate about science, technology, and how they shape and influence human experience. My research interests include Computer Vision, Machine Learning and Deep Learning.
 
 **Some things I've worked on**
 * [Computer Vision and Machine Learning For Rooftop Detection and Solar Panel Installment](http://www.omdena.com/projects/ai-solar)
