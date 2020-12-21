@@ -1,6 +1,6 @@
 <!-- <img width="500" height="600" alt="Screenshot 2020-11-21 at 11 06 31 PM" class="center" src="https://user-images.githubusercontent.com/52134849/102693761-38d68600-421d-11eb-8682-e245919f1eb9.jpg"> -->
 
-<img width="400" height="600" alt="Screenshot 2020-11-21 at 11 06 31 PM" class="center" src="https://user-images.githubusercontent.com/52134849/102813441-17b29880-43c9-11eb-8f33-be0775acdab2.jpeg">
+<img width="500" height="400" alt="Screenshot 2020-11-21 at 11 06 31 PM" class="center" src="https://user-images.githubusercontent.com/52134849/102813441-17b29880-43c9-11eb-8f33-be0775acdab2.jpeg">
 
 
 I am a final year undergraduate student of Computer Engineering at [Covenant University](https://www.covenantuniversity.edu.ng/). I am passionate about science, technology, and how they shape the world and influence human experience. My research interests include Computer Vision, Machine Learning and Deep Learning.
