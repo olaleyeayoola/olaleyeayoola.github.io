@@ -3,7 +3,7 @@
 <img width="500" height="400" alt="Screenshot 2020-11-21 at 11 06 31 PM" class="center" src="https://user-images.githubusercontent.com/52134849/102813441-17b29880-43c9-11eb-8f33-be0775acdab2.jpeg">
 
 
-I am a final year undergraduate student of Computer Engineering at [Covenant University](https://www.covenantuniversity.edu.ng/). I am passionate about science, technology, and how they shape the world and influence human experience. My research interests include Computer Vision, Machine Learning and Deep Learning.
+I am a final year undergraduate student of Computer Engineering at [Covenant University](https://www.covenantuniversity.edu.ng/). I am passionate about science, technology, and how they shape the world and influence human experience. My research interests include Computer Vision, Machine Learning and Deep Learning. I write technical articles on my blog and in my free time, I enjoy taking pictures and playing table tennis
 
 **Research Work**
 * [Computer Vision and Machine Learning For Rooftop Detection and Solar Panel Installment](http://www.omdena.com/projects/ai-solar)
