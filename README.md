@@ -2,6 +2,6 @@
 
 <!-- ![image](https://github.com/olaleyeayoola/olaleyeayoola.github.io/blob/main/ayoola.jpg) -->
 
-#### I am an Embedded Firmware Engineer and an Artificial Intelligence enthusiast. I am passionate about science, technology, and how they shape the world and influence human experience. I enjoy building automated systems using microcontrollers. In my free time, I enjoy reading books and playing table tennis
+#### I am an Embedded Software Engineer and an Artificial Intelligence enthusiast. I am passionate about science, technology, and how they shape the world and influence human experience. I enjoy building automated systems using microcontrollers. In my free time, I enjoy reading books and playing table tennis
 
 <img width="500" height="700" alt="ayoola.jpg" class="center" src="ayoola.jpg">
